@@ -1,4 +1,4 @@
-# 大前端工具集 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# 大前端工具集 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这个项目的定位是 **大前端程序猿的百宝箱**，主要针对 前端方向和 Node方向。主要内容是我了解过的库、工具、套路、设计/交互或关注的前端组织/博客等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
 
@@ -409,6 +409,7 @@ _暂无_
 
 - [站酷](http://www.zcool.com.cn/works/) - 里面好东西太多，俺当年真没少再上面淘素材
 - [UI中国](http://www.ui.cn/list.html) - 光听名字就知道有多高大上鸟:)
+- [阿里巴巴矢量图标库](http://www.iconfont.cn/) - 好多免费小图标:)
 
 
 <h3 id="handbook">速查手册</h3>
