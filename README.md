@@ -320,7 +320,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [SourceTree](https://www.sourcetreeapp.com/) - **免费**。属于大名鼎鼎的 ```Atlassian```，一款好用的的 ```Git``` 客户端工具，重点是 **支持中文**，哈哈:)
 - [focus booster](https://www.focusboosterapp.com/) - **免费** 已经够用，当然还有更高级的 ```INDIVIDUAL/PROFESSIONAL```，售价分别是 ```$3/$5```。因为比较在意时间管理，所以当工作压力较大时，这软件是俺的必备之物
 - [WebTorrent](https://webtorrent.io/) - **免费**。直接播放种子，你懂得。年轻的斯坦福大神 [Feross](http://feross.org/) 开发，Git上的开源项目哦。
-- [WebStorm](http://www.jetbrains.com/webstorm/) - **$129**，可试用一个月。功能超强的前端 ```IDE```，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...然后俺就卸载装了，装了 ```ATOM```...
+- [WebStorm](http://www.jetbrains.com/webstorm/) - **$129**，可试用一个月。功能超强的前端 ```IDE```，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...然后俺就卸载装了，装了 ```ATOM```...破解码(http://idea.lanyus.com/)
 - [MindNode](http://mindnode.com/) - 售价 **$29.99**，有免费试用版。这是款漂亮的思维导图工具。其实 [百度脑图](http://naotu.baidu.com/) 这类 Web 上的工具绝对够用了，不太推荐...
 - [Mou](http://25.io/mou/) - 我曾使用过的 Markdown 编辑器，不推荐使用。原本已经准备去掉，但是偶还是想让大家了解下这个有意思的事情：[《一年了，那个闻名遐迩的 Mou 你还记得吗？》](http://matrix.sspai.com/p/c7a3c9c0)
 
