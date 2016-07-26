@@ -410,6 +410,7 @@ _暂无_
 - [站酷](http://www.zcool.com.cn/works/) - 里面好东西太多，俺当年真没少再上面淘素材
 - [UI中国](http://www.ui.cn/list.html) - 光听名字就知道有多高大上鸟:)
 - [阿里巴巴矢量图标库](http://www.iconfont.cn/) - 好多免费小图标:)
+- [花瓣](http://huaban.com/) - 这里有好多不错的素材:)
 
 
 <h3 id="handbook">速查手册</h3>
